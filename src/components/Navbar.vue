@@ -16,7 +16,6 @@
             <b-dropdown-item href="#">RU</b-dropdown-item>
             <b-dropdown-item href="#">FA</b-dropdown-item>
           </b-nav-item-dropdown> -->
-<span>{{isAuthenticated}}</span>
 
           <b-navbar-nav>
             <b-nav-item active-class="active" href="/login" v-if="!isAuthenticated">Login</b-nav-item>
