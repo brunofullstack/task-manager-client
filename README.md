@@ -18,18 +18,19 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/brunofullstack/task-manager-client
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 
 2. Navegue até a pasta do projeto:
 
 ```bash
-cd task-manager-client
+cd nome-do-repositorio
 ```
 
 3. Instale as dependências do frontend (VueJS):
 
 ```bash
+cd frontend
 npm install
 ```
 
@@ -71,6 +72,6 @@ A aplicação oferece as seguintes funcionalidades principais:
 
 ## Avaliação
 
-Sou um desenvolvedor com tempo bem reduzido, só tive a tarde de domingo livre pra desenvolver o projeto
+Este projeto será avaliado com base no tempo de desenvolvimento, qualidade do código e conhecimento das tecnologias utilizadas. Os membros da equipe interna irão revisar o código e fornecer feedback.
 
 Obrigado por conferir nosso projeto! Se tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
