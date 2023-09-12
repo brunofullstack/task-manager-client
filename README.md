@@ -69,9 +69,3 @@ A aplicação oferece as seguintes funcionalidades principais:
 - Envio de E-mails: O sistema envia um e-mail sempre que um cadastro for feito, editado ou deletado.
 
 - Criação do Primeiro Usuário via CLI: O sistema oferece suporte para criar o primeiro usuário via linha de comando.
-
-## Avaliação
-
-Este projeto será avaliado com base no tempo de desenvolvimento, qualidade do código e conhecimento das tecnologias utilizadas. Os membros da equipe interna irão revisar o código e fornecer feedback.
-
-Obrigado por conferir nosso projeto! Se tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
